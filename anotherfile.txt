@@ -8,3 +8,5 @@ let's try rebase with no fast forward and merge back to master.
 try again.
 
 adding more things.
+
+adding another things.
