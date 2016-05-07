@@ -15,3 +15,9 @@ adding another things.
 124.
 
 more.
+<<<<<<< HEAD
+=======
+
+
+....
+>>>>>>> firstBranch
