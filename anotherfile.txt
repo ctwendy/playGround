@@ -15,9 +15,14 @@ adding another things.
 124.
 
 more.
+<<<<<<< 242c41b533d6174d57f013feb13a44ce88cd4d21
 <<<<<<< HEAD
 =======
 
 
 ....
 >>>>>>> firstBranch
+=======
+
+a12342
+>>>>>>> random check in.
