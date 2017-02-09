@@ -18,4 +18,4 @@ I need to test out rebase.
 ....
 
 
-readme include branching stategy.
+readme include branching second strategy.
